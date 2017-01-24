@@ -5,6 +5,7 @@ svar:Random Access Memory
 2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 svar:Read-only memory
 3. Hvað er fyrirbyggjandi viðhald?
+svar:það er öruggisaðgerðir vera tol buinn óhöppum
 4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að
 verjast því þegar unnið er með tölvubúnað?
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
