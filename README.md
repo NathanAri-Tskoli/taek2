@@ -15,6 +15,7 @@ svar:vött og stærðin á kassaanum
 svar: finna valdamálið svo koma meðm hugmynd um að laga vanda málið svo purfa aðgerð svo chack hvort það hefði vikar svo spila mincraft
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
+svar:það er ofttast muner er lagnt og leiðilegt svar en hit er beint á svarin og oftast fjott
 8. Hvað eru jaðartæki?
 9. Nefndu þrjú dæmi um inntakstæki.
 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
