@@ -17,6 +17,7 @@ svar: finna valdamálið svo koma meðm hugmynd um að laga vanda málið svo pu
 Nefnið dæmi um báðar gerðir af spurningum.
 svar:það er ofttast muner er lagnt og leiðilegt svar en hit er beint á svarin og oftast fjott
 8. Hvað eru jaðartæki?
+svar:likjaborð,heynartöl,mús
 9. Nefndu þrjú dæmi um inntakstæki.
 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
