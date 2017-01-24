@@ -12,6 +12,7 @@ svar:Electrostatic discharge. það er þegar rafstraumur fer einhbert sem hann 
 5. Hvað þarf að hafa í huga við val á spennugjöfum?
 svar:vött og stærðin á kassaanum
 6. Hver eru hin 6 skref við bilanagreiningu og viðgerðir?
+svar: finna valdamálið svo koma meðm hugmynd um að laga vanda málið svo purfa aðgerð svo chack hvort það hefði vikar svo spila mincraft
 7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu?
 Nefnið dæmi um báðar gerðir af spurningum.
 8. Hvað eru jaðartæki?
