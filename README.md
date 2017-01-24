@@ -19,6 +19,7 @@ svar:það er ofttast muner er lagnt og leiðilegt svar en hit er beint á svari
 8. Hvað eru jaðartæki?
 svar:likjaborð,heynartöl,mús
 9. Nefndu þrjú dæmi um inntakstæki.
+svar:mús likjaborð og mic
 10. Notaðu vefsíður íslenskra tölvuverslana til að velja íhluti til að setja saman góða
 leikjatölvu. Þú ert með fjármagn upp á 250 þúsund krónur. Settu upp töflu þar sem
 fram kemur hvaða íhluti þú valdir, hvað hver íhlutur kostar og hvar hann fæst.
